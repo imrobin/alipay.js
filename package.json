@@ -1,0 +1,25 @@
+{
+    "name": "js-alipay",
+    "version": "1.0.0",
+    "description": "alipay javascript api for node",
+    "keywords": [
+        "alipay",
+        "alipay js",
+        "pay js"
+    ],
+    "main": "index.js",
+    "publishConfig": {
+        "registry": "https://registry.npmjs.org/"
+    },
+    "homepage": "https://github.com/imrobin/alipay.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/imrobin/alipay.js.git"
+    },
+    "bugs": {
+        "url": "https://github.com/imrobin/alipay.js/issues"
+    },
+    "author": "imrobin.xi@gmail.com",
+    "license": "MIT",
+    "dependencies": {}
+}
